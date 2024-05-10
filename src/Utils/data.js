@@ -3,42 +3,43 @@ export const SKILLS = [
     title: "Frontend",
     icon: "https://cdn-icons-png.freepik.com/512/8099/8099466.png",
     skills: [
-      { skill: "HTML5", percentage: "80%" },
+      { skill: "HTML5", percentage: "85%" },
       { skill: "CSS3", percentage: "75%" },
-      { skill: "JavaScript", percentage: "65%" },
-      { skill: "React.js", percentage: "60%" },
-      { skill: "TailwindCSS", percentage: "50%" },
+      { skill: "JavaScript", percentage: "70%" },
+      { skill: "React.js", percentage: "70%" },
+      { skill: "TailwindCSS", percentage: "65%" },
     ],
   },
-  {
-    title: "Backend",
-    icon: "https://cdn-icons-png.flaticon.com/512/12238/12238274.png",
-    skills: [
-      { skill: "MySQL", percentage: "50%" },
-      { skill: "Node.js", percentage: "50%" },
-      { skill: "Express.js", percentage: "50%" },
-    ],
-  },
+  // {
+  //   title: "Backend",
+  //   icon: "https://cdn-icons-png.flaticon.com/512/12238/12238274.png",
+  //   skills: [
+  //     { skill: "MySQL", percentage: "50%" },
+  //     { skill: "Node.js", percentage: "50%" },
+  //     { skill: "Express.js", percentage: "50%" },
+  //   ],
+  // },
   {
     title: "Tools",
     icon: "https://cdn-icons-png.flaticon.com/512/7181/7181976.png",
     skills: [
       { skill: "Visual Studio Code", percentage: "75%" },
-      { skill: "Git & GitHub", percentage: "70%" },
-      { skill: "fsdf", percentage: "76%" },
-      { skill: "khjk", percentage: "78%" },
+      { skill: "Git & GitHub", percentage: "65%" },
+      { skill: "Figma", percentage: "50%" },
+      { skill: "Photoshop", percentage: "60%" },
+      { skill: "Microsoft Office", percentage: "80%" },
     ],
   },
-  {
-    title: "Soft Skills",
-    icon: "https://cdn-icons-png.freepik.com/512/8301/8301097.png",
-    skills: [
-      { skill: "Viskhjkh", percentage: "75%" },
-      { skill: "tykhj", percentage: "74%" },
-      { skill: "liulu", percentage: "72%" },
-      { skill: "ewdff", percentage: "79%" },
-    ]
-  }
+  // {
+  //   title: "Soft Skills",
+  //   icon: "https://cdn-icons-png.freepik.com/512/8301/8301097.png",
+  //   skills: [
+  //     { skill: "Viskhjkh", percentage: "75%" },
+  //     { skill: "tykhj", percentage: "74%" },
+  //     { skill: "liulu", percentage: "72%" },
+  //     { skill: "ewdff", percentage: "79%" },
+  //   ]
+  // }
 ];
 
 export const WORK_EXPERIENCE = [
