@@ -47,7 +47,7 @@ export const WORK_EXPERIENCE = [
     date: "October 2021 - November 2023",
     responsibilities: [
     "Oversaw emails for job notifications from Kiatnakin Phatra Bank (Public Company Limited) and coordinated with internal bank officers responsible for our company.",
-    "Handled data sent by the bank, reported it to the company's main report, and utilized the gathered information in subsequent steps of our company's workflow, such as:",
+    "Handled data sent by the bank, reported it to the company's main report, and utilized the gathered information in subsequent steps of our company's workflow.",
     "Prepared initial data for debt collection processes.",
     "Sent payment demand letters based on information received from the contracting bank.",
     "Entered data for daily reports, where our company's lawyers filed cases through the court's filing system or E-Filing system and engaged in legal proceedings in various formats.",
@@ -77,10 +77,10 @@ export const WORK_EXPERIENCE = [
     ],
   },
   {
-    title: "Workshop project-react-shopping-app-api",
+    title: "Workshop Project Shopping Cart API",
     date: "January 2024 - February 2024",
     responsibilities: [
-    "The Shopping Cart React Application website is part of creating an online application for shopping.",
+    "The Project Shopping Cart API website is part of creating an online application for shopping.",
     "Add to Cart: Adding products to cart is the process in which users select the products they want to purchase and add them to their cart. This usually involves clicking the “Add to Cart” or similar button on the product page.",
     "Remove from Cart: Removing products from cart is a process in which the user selects the products that they want to remove from the cart. This usually involves clicking the “Remove” or similar button on the cart page.",
     "Calculate Total Order: When the user adds or deletes items in the cart. The system must calculate the total amount of all products in the cart. This includes the price of each product. and show the total to the user."
